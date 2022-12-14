@@ -1,0 +1,55 @@
+div {
+    background-color: black;
+    color: white;
+    position: relative;
+    border-bottom: 2px dotted black;
+    border-radius: 10px;
+    width: 500px;
+    height: 500px;
+    padding: 3px;
+    padding-left: 20px;
+}
+
+button svg {
+    width: 10px;
+    height: 20px;
+}
+
+button {
+    background-color: black;
+    fill: white;
+    border: none;
+    position: absolute; 
+    right: 5px;
+    top: 30px;
+}
+
+h1 {
+    border-bottom: 2px dotted rgb(131, 126, 126);
+}
+.recebidas {    
+    border: 1px;
+    padding: 8px;
+    background-color: #363636;
+    list-style: none;
+    margin: 5px;
+    margin-right: 300px;
+    width: fit-content;
+    border-radius: 6px;
+    
+}
+
+.enviadas {
+    border: 1px;
+    padding: 10px;
+    background-color: #129970;
+    list-style: none;
+    margin: 5px;
+    width: fit-content;
+    text-align: left;
+    margin-left: auto;
+    border-radius: 6px;
+
+
+
+}
